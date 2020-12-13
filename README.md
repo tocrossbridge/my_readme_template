@@ -1,16 +1,14 @@
 # My README Template
-<table>
+<table style="border: none">
     <tr>
         <td>Made with:</td>
-        <td>Test 01</td>
-    </tr>
-    <tr>
         <td>What is this?</td>
-        <td>Test 02</td>
+        <td>Description:</td>
     </tr>
     <tr>
-        <td>Description:</td>
-        <td>Test 03</td>
+        <td>Made text</td>
+        <td>What is this text</td>
+        <td>Description text</td>
     </tr>
 </table>
 <br/><br/><br/>
