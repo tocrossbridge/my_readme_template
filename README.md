@@ -1,9 +1,10 @@
 # My README Template
 <b>Made with:</b><br/>
 Lorem ipsulum v1.4
-<br/>
+<br/><br/>
 <b>What is this?</b><br/>
 A README.md file!
+<br/><br/>
 <b>Description:</b><br/>
 My default template of readme
 <br/><br/>
