@@ -35,4 +35,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra molestie
 
 <br/>
 
-&#9813; [PROJECT SETUP](#Project-setup) &#9821; [PREVIEW](#Preview) &#9820; [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &#9822; [BACK TO TOP](#My-README-Template) &#9823;
+<div style="display: flex; justify-content: center;">
+[PROJECT SETUP](#Project-setup) &diams; [PREVIEW](#Preview) &diams; [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &diams; [BACK TO TOP](#My-README-Template)
+<div>
