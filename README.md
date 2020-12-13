@@ -8,6 +8,8 @@ A README.md file!
 <b>Description:</b><br/>
 My default template of readme
 <br/><br/>
+<b>Check the [PREVIEW](#Preview)! &#128150;</b>
+<br/><br/>
 <b>Check the [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now)! &#128150;</b>
 
 ## Project setup
@@ -20,9 +22,9 @@ Type the commands here
 Type the commands here
 ```
 
-#### Thank you for your support!
-<br>
-<b>Preview:</b>
+<b>Thank you for your support!</b>
+
+# Preview
 <img src="overview.png" alt="Add your img here" />
 
 
