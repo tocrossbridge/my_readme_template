@@ -1,17 +1,4 @@
 # My README Template
-<table style="border: none">
-    <tr style="border: none; background-color: transparent;">
-        <td>Made with:</td>
-        <td>What is this?</td>
-        <td>Description:</td>
-    </tr>
-    <tr style="border: none; background-color: transparent;">
-        <td>Made text</td>
-        <td>What is this text</td>
-        <td>Description text</td>
-    </tr>
-</table>
-<br/><br/>
 <b>Made with:</b><br/>
 Lorem ipsulum v1.4
 <br/><br/>
