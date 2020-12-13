@@ -12,7 +12,7 @@ My default template of readme
 <br/><br/>
 <b>Check the [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now)! &#128150;</b>
 
-## Project setup
+# Project setup
 ```
 Type the commands here
 ```
@@ -32,3 +32,7 @@ Type the commands here
 <b>Last update:</b> 13/12/2020
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra molestie finibus. Donec lacinia quam at est lobortis tempus. Proin ac ipsum vel orci aliquam consectetur.
+
+<center>
+[PROJECT SETUP](#Project-setup) | [PREVIEW](#Preview) | [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) | [BACK TO TOP](#My-README-Template)
+</center>
