@@ -1,10 +1,5 @@
 # My README Template
 
-<div style="display: flex; justify-content: inline-block">
-  <div>01</div>
-  <div>01</div>
-  <div>01</div>
-</div>
 <b>Made with:</b><br/>
 Lorem ipsulum v1.4
 <br/><br/>
