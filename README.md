@@ -8,9 +8,12 @@ A README.md file!
 <b>Description:</b><br/>
 My default template of readme
 <br/><br/>
-<b>Check the [PREVIEW](#Preview)! &#128150;</b>
-<br/><br/>
-<b>Check the [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now)! &#128150;</b>
+# Quick links &#128150;
+<div>
+  
+[PROJECT SETUP](#Project-setup) &diams; [PREVIEW](#Preview) &diams; [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &diams; [BACK TO TOP](#My-README-Template)
+
+<div>
 
 # Project setup
 ```
@@ -35,8 +38,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra molestie
 
 <br/>
 
-<center>
+<div>
   
 [PROJECT SETUP](#Project-setup) &diams; [PREVIEW](#Preview) &diams; [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &diams; [BACK TO TOP](#My-README-Template)
 
-<center>
+<div>
