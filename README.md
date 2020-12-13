@@ -35,4 +35,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra molestie
 
 <br/>
 
-&#9828; [PROJECT SETUP](#Project-setup) &#9828; [PREVIEW](#Preview) &#9828; [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &#9828; [BACK TO TOP](#My-README-Template) &#9828;
+&#9819; [PROJECT SETUP](#Project-setup) &#9821; [PREVIEW](#Preview) &#9820; [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &#9822; [BACK TO TOP](#My-README-Template) &#9823;
