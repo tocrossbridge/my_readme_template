@@ -2,6 +2,8 @@
 <b>Made with:</b><br/>
 Lorem ipsulum v1.4
 <br/>
+<b>What is this?</b><br/>
+A README.md file!
 <b>Description:</b><br/>
 My default template of readme
 <br/><br/>
