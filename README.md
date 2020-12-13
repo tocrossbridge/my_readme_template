@@ -1,7 +1,18 @@
 # My README Template
-| Made with: | What is this? | Description: |
-| -----------|:-------------:| ------------:|
-| Test       | Test          | Test         |
+<table>
+    <tr>
+        <td>Made with:</td>
+        <td>Test 01</td>
+    </tr>
+    <tr>
+        <td>What is this?</td>
+        <td>Test 02</td>
+    </tr>
+    <tr>
+        <td>Description:</td>
+        <td>Test 03</td>
+    </tr>
+</table>
 <br/><br/><br/>
 <b>Made with:</b><br/>
 Lorem ipsulum v1.4
