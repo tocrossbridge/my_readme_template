@@ -33,6 +33,9 @@ Type the commands here
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra molestie finibus. Donec lacinia quam at est lobortis tempus. Proin ac ipsum vel orci aliquam consectetur.
 
-<center>
-[PROJECT SETUP](#Project-setup)   [PREVIEW](#Preview)   [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now)   [BACK TO TOP](#My-README-Template)
-</center>
+<div>
+[PROJECT SETUP](#Project-setup)
+[PREVIEW](#Preview)
+[STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now)
+[BACK TO TOP](#My-README-Template)
+</div>
