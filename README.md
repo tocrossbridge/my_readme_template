@@ -34,7 +34,8 @@ Type the commands here
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra molestie finibus. Donec lacinia quam at est lobortis tempus. Proin ac ipsum vel orci aliquam consectetur.
 
 <br/>
-[PROJECT SETUP](#Project-setup)
+
+&#9828; [PROJECT SETUP](#Project-setup) &#9828;
 
 [PREVIEW](#Preview)
 
