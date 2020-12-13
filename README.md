@@ -36,5 +36,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra molestie
 <br/>
 
 <div style="display: flex; justify-content: center;">
+  
 [PROJECT SETUP](#Project-setup) &diams; [PREVIEW](#Preview) &diams; [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &diams; [BACK TO TOP](#My-README-Template)
+
 <div>
