@@ -31,7 +31,7 @@ Type the commands here
 
 
 # How is the development of the project right now?
-<b>Last update:</b> 13/12/2020
+<b>Last update:</b> XX/XX/2021
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra molestie finibus. Donec lacinia quam at est lobortis tempus. Proin ac ipsum vel orci aliquam consectetur.
 
