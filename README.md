@@ -10,11 +10,9 @@ A README.md file!
 My default template of readme
 <br/><br/>
 # Quick links &#128150;
-<div>
   
 [PROJECT SETUP](#Project-setup) &diams; [PREVIEW](#Preview) &diams; [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &diams; [CREDITS](#Credits) &diams; [BACK TO TOP](#My-README-Template)
 
-<div>
 
 # Project setup
 ```
@@ -44,8 +42,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra molestie
 Lorem ipsum dolor sit amet
 
 
-<div>
   
 [PROJECT SETUP](#Project-setup) &diams; [PREVIEW](#Preview) &diams; [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &diams; [CREDITS](#Credits) &diams; [BACK TO TOP](#My-README-Template)
-
-<div>
