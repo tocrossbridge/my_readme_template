@@ -27,7 +27,7 @@ Type the commands here
 <b>Thank you for your support!</b>
 
 # Preview
-<img src="overview.png" alt="Add your img here" />
+<img src="overview.png" alt="What the fuck is going on here?" />
 
 
 # How is the development of the project right now?
