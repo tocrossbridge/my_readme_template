@@ -1,5 +1,7 @@
 # My README Template
 
+<img src="cool-banner-here-ma-good-bitch.png" alt="yes, I called you a bitch" />
+
 <b>Made with:</b><br/>
 Lorem ipsulum v1.4
 <br/><br/>
