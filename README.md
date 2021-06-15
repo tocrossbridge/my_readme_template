@@ -12,7 +12,11 @@ A README.md file!
 My default template of readme
 <br/><br/>
 <b>Figma:</b><br/>
-Link of the project on Figma/similar
+Coming soon
+<br/><br/>
+<br/><br/>
+<b>Behance:</b><br/>
+Coming soon
 <br/><br/>
 # Quick links &#128150;
   
