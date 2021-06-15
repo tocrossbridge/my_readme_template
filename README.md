@@ -11,6 +11,9 @@ A README.md file!
 <b>Description:</b><br/>
 My default template of readme
 <br/><br/>
+<b>Figma:</b><br/>
+Link of the project on Figma/similar
+<br/><br/>
 # Quick links &#128150;
   
 [PROJECT SETUP](#Project-setup) &diams; [PREVIEW](#Preview) &diams; [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &diams; [CREDITS](#Credits) &diams; [BACK TO TOP](#My-README-Template)
