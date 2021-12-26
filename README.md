@@ -20,7 +20,7 @@ Coming soon
 <br/><br/>
 # Quick links &#128150;
   
-[PROJECT SETUP](#Project-setup) &diams; [PREVIEW](#Preview) &diams; [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &diams; [CREDITS](#Credits) &diams; [BACK TO TOP](#My-README-Template)
+[PROJECT SETUP](#Project-setup) &diams; [PREVIEW](#Preview) &diams; [WHAT I'VE DONE](#What-I-ve-done) &diams; [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &diams; [CREDITS](#Credits) &diams; [BACK TO TOP](#My-README-Template)
 
 
 # Project setup
@@ -38,6 +38,13 @@ Type the commands here
 # Preview
 <img src="overview.png" alt="What the fuck is going on here?" />
 
+# What I've done?
+<b>Last update:</b> XX/XX/2021
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra molestie finibus. Donec lacinia quam at est lobortis tempus. Proin ac ipsum vel orci aliquam consectetur.
+
+<br/>
+
 
 # How is the development of the project right now?
 <b>Last update:</b> XX/XX/2021
@@ -52,4 +59,4 @@ Lorem ipsum dolor sit amet
 
 <i>Stay awesome Gothan!</i>
   
-[PROJECT SETUP](#Project-setup) &diams; [PREVIEW](#Preview) &diams; [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &diams; [CREDITS](#Credits) &diams; [BACK TO TOP](#My-README-Template)
+[PROJECT SETUP](#Project-setup) &diams; [PREVIEW](#Preview) &diams; [WHAT I'VE DONE](#What-I-ve-done) &diams; [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &diams; [CREDITS](#Credits) &diams; [BACK TO TOP](#My-README-Template)
