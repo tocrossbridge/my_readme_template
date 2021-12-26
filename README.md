@@ -59,4 +59,4 @@ Lorem ipsum dolor sit amet
 
 <i>Stay awesome Gothan!</i>
   
-[PROJECT SETUP](#Project-setup) &diams; [PREVIEW](#Preview) &diams; [WHAT I'VE DONE](#What-I-ve-done) &diams; [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &diams; [CREDITS](#Credits) &diams; [BACK TO TOP](#My-README-Template)
+[PROJECT SETUP](#Project-setup) &diams; [PREVIEW](#Preview) &diams; [WHAT I'VE DONE](#What-Ive-done) &diams; [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &diams; [CREDITS](#Credits) &diams; [BACK TO TOP](#My-README-Template)
