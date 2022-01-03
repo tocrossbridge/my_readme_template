@@ -55,6 +55,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra molestie
 Lorem ipsum dolor sit amet
 
 __Thank you for your support!__
+
 _... And stay awesome Gothan!_
   
 [PROJECT SETUP](#Project-setup) &diams; [PREVIEW](#Preview) &diams; [TESTING](#Testing) &diams; [WHAT I'VE DONE](#What-Ive-done) &diams; [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &diams; [CREDITS](#Credits) &diams; [BACK TO TOP](#My-README-Template)
