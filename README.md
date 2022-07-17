@@ -7,7 +7,7 @@
 
 ## Summary
 
-[PREVIEW](#Preview) &diams; [ABOUT](#About) &diams; [PROJECT SETUP](#Project-setup) &diams; [PROJECT DEVELOPMENT STATUS](#Project-development-status) &diams; [THANKS](#Thanks) &diams; [BACK TO TOP](#My-README-Template)
+[PREVIEW](#Preview) &diams; [ABOUT](#About) &diams; [PROJECT SETUP](#Project-setup) &diams; [PROJECT DEVELOPMENT STATUS](#Project-development-status) &diams; [THANKS](#Thanks) &diams;
 
 ## Preview
 
@@ -61,4 +61,4 @@ __Thank you for your support!__
 
 _... And stay awesome Gothan!_
   
-[PREVIEW](#Preview) &diams; [ABOUT](#About) &diams; [PROJECT SETUP](#Project-setup) &diams; [PROJECT DEVELOPMENT STATUS](#Project-development-status) &diams; [THANKS](#Thanks) &diams; [BACK TO TOP](#My-README-Template)
+[PREVIEW](#Preview) &diams; [ABOUT](#About) &diams; [PROJECT SETUP](#Project-setup) &diams; [PROJECT DEVELOPMENT STATUS](#Project-development-status) &diams; [THANKS](#Thanks) &diams; [BACK TO TOP](#Project-name-here)
