@@ -7,7 +7,7 @@
 
 ## Summary
 
-[PREVIEW](#Preview) &diams; [ABOUT](#About) &diams; [PROJECT SETUP](#Project-setup) &diams; [PROJECT DEVELOPMENT STATUS](#Project-development-status) &diams; [THANKS](#Thanks) &diams;
+[PREVIEW](#Preview) &diams; [ABOUT](#About) &diams; [GET STARTED](#Get-started) &diams; [PROJECT DEVELOPMENT STATUS](#Project-development-status) &diams; [THANKS](#Thanks) &diams;
 
 ## Preview
 
@@ -33,16 +33,73 @@ For more information about the it, check:
 
 <a href="https://some-link-here" target="_blank">example</a>
 
-# Project setup
+# Get started
+
+### Before start
+  
+You must have the down below to run the project locally:
+
+- <a href="#">example</a>
+- <a href="#">example</a>
+
+### Locally project setup
+
+To clone the project, navigate to its folder and to install required packages, run the following commands on the command prompt:
+
+```sh
+$ git clone https://github.com/wolfhaltz/example.git
+$ cd example/
 ```
-Type the commands here
+  
+### Project Setup
+
+```sh
+TYpe the commands heres (ex: npm install)
 ```
 
 ### Compiles and hot-reloads for development
 ```
-Type the commands here
+Type the commands here (ex: npm run dev)
+```
+  
+### Compile and Minify for Production
+
+```sh
+Type the commands here (ex: npm run build)
+```
+  
+### Run Headed Component Tests with [Testing Tools](https://tool-link)
+
+```sh
+Type the commands here (ex: npm run test:unit # or `npm run test:unit:ci` for headless testing)
 ```
 
+### Lint with [ESLint](https://eslint.org/)
+
+```sh
+npm run lint
+```
+  
+### Usage via Docker
+
+To build the container run:
+
+```sh
+docker-compose build 
+```
+
+...then run this:
+
+```
+docker-compose up
+```
+
+Open the website at http://localhost:3000 and its done! :D
+
+## Recommended IDE Setup
+
+[VSCode](https://code.visualstudio.com/) + whatever
+  
 # Project development status
 __Last update:__ XX/XX/2021
 
@@ -61,4 +118,4 @@ __Thank you for your support!__
 
 _... And stay awesome Gothan!_
   
-[PREVIEW](#Preview) &diams; [ABOUT](#About) &diams; [PROJECT SETUP](#Project-setup) &diams; [PROJECT DEVELOPMENT STATUS](#Project-development-status) &diams; [THANKS](#Thanks) &diams; [BACK TO TOP](#Project-name-here)
+[PREVIEW](#Preview) &diams; [ABOUT](#About) &diams; [GET STARTED](#Get-started) &diams; [PROJECT DEVELOPMENT STATUS](#Project-development-status) &diams; [THANKS](#Thanks) &diams; [BACK TO TOP](#Project-name-here)
